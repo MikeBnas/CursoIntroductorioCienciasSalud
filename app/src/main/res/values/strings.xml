@@ -1,0 +1,486 @@
+<resources>
+    <string name="app_name">MediCourses Introductorio</string>
+    <string name="bio_resume">La biologia es de suma importancia como conocimiento
+        basico necesario para quienes ingresaran al estudio de las ciencias
+        de la salud, aportando los conocimientos esenciales sobre la estructura celular,
+        los tejidos y los organos que se derivan de ellos.
+
+        \n En esta seccion encontraras orientaciones y material que te permitiran
+        revisar algunos de los conceptos mas importantes y profundizar en nuevos
+        conocimientos necesarios para comenzar tus estudios universitarios.
+    </string>
+    <string name="bio_content">
+        Aqui podras revisar los contenidos que podras encontrar en los materiales de estudio
+        de esta seccion: \n
+        1. Organización, estructura y actividad celular.\n
+        1.1. La biología, ciencia de la vida.\n
+        1.2. Niveles de organización de la materia.\n
+        1.3. Propiedades emergentes y las disciplinas que las estudian.\n
+        1.4. La célula como unidad microscópica que compone a los seres vivos.\n
+        1.4.1. Antecedentes del estudio de la estructura de los seres vivos.\n
+        1.4.2. Postulados de la teoría celular.\n
+        1.4.4. Tipos de células: procariontes, eucarione animal, eucarionte vegetal.\n
+        1.4.3. Componentes básicos de toda célula.\n
+        Estructura general de la célula procarionte.\n
+        Estructura general de una célula eucarionte animal.\n
+        Estructura general de una célula eucarionte vegetal.\n
+        1.4.5. El cloroplasto y la nutrición por fotosíntesis.\n
+        1.4.6. La mitocondria y la respiración celular como proceso de obtención
+        de energía.\n
+        1.4.7. Teoría endosimbiótica: el origen de las células eucariontes.\n
+        1.5. Química de los seres vivos: las moléculas que componen a la célula.\n
+        1.5.1. Biomoléculas inorgánicas: agua, sales y gases.\n
+        1.5.2. Biomoléculas orgánicas.\n
+        1.5.2.1. Azúcares, glúcidos o carbohidratos.\n
+        1.5.2.2. Grasas o lípidos.\n
+        1.5.2.3. Ácidos nucleicos y fosfatos de adenosina.\n
+        1.5.2.4. Proteínas.\n
+        1.5.3. Enzimas: propiedades e importancia en el metabolismo celular.\n
+        1.5.3.1. Catalizadores y energía de activación.\n
+        1.5.3.2. Características de las enzimas.\n
+        1.5.3.3. Mecanismo de acción de las enzimas.\n
+        1.5.3.4. Factores que afectan la actividad enzimática e inhibidores.\n
+        1.5.3.5. Metabolismo celular.\n
+        1.6. Intercambio de sustancias entre la célula y su ambiente.\n
+        1.6.1. Composición de la membrana citoplasmática.\n
+    </string>
+    <string name="anat_resume">
+        El cuerpo humano es un aglomerado de unos cincuenta billones de células, agrupadas en tejidos y
+        organizadas en ocho aparatos (locomotor, respiratorio, digestivo, excretor, circulatorio, endocrino,
+        nervioso y reproductor). Sus elementos constitutivos básicos podrían adquirirse en cualquier parte por
+        un puñado de monedas, pero la vida que alberga estos átomos reunidos con un propósito concreto, lo
+        convierten en un ser de valor incalculable, imposible de calcular con criterios terrenales.\n
+
+    </string>
+    <string name="anat_cont">
+        Aqui podras revisar los contenidos que podras encontrar en los materiales de estudio
+        de esta seccion: \n
+        1. Introduccion a la antomia osea.\n
+        2. Musculos.\n
+        3. Sistema Nervioso.\n
+        4. Sistema Cardiovascular.\n
+        5. Sistema urinario y reproductor. \n
+        6. Sistema endocrino.\n
+        7. Sistema respiratorio.\n
+        8. Sistema digestivo.\n
+    </string>
+    <string name="fis_resume">
+        "Si he logrado ver más lejos, ha sido porque he subido a hombros de gigantes" Sir. Isaac Newton.\n
+        La física (del latín physica, y este del griego antiguo φυσικός physikós «natural, relativo a la
+        naturaleza») es la ciencia natural que estudia los componentes fundamentales del universo, la energía,
+        la materia, la fuerza, el movimiento, el espacio-tiempo, las magnitudes físicas,
+        las propiedades físicas y las interacciones fundamentales.
+        \nLa física es una ciencia básica estrechamente vinculada con las matemáticas y la lógica en la formulación
+        y cuantificación de sus principios y leyes físicas.
+    </string>
+    <string name="fis_cont">
+        En los recursos incluidos en esta secion podras leer sobre los siguientes temas:\n
+        1.MAGNITUDES FÍSICAS Y MEDIDAS.\n
+        1.1 Magnitudes físicas, cantidad y unidad.\n
+        1.2 Las mediciones en física.\n
+        1.3 Factores de conversión de unidades.\n
+        1.4 Análisis dimensional.\n
+        1.5 Cálculos con potencia de diez.\n
+        1.6 Cifras significativas.\n\n
+        2 FUNCIONES Y GRAFICAS.\n
+        2.1 Representación grafica.\n
+        2.2 La línea recta.\n
+        2.3 Variación lineal.\n
+        2.4 La parábola.\n
+        2.5 Intersección.\n\n
+        3. ALGEBRA VECTORIAL.\n
+        3.1 Representación de un vector.\n
+        3.2 Vector unitario.\n
+        3.3 Representación de un vector en un SCC en el plano
+        en función de los vectores unitarios.\n
+        3.4 El vector de posición en el plano XY.\n
+        3.5 El sistema de coordenadas en el espacio.\n
+        3.6 El vector desplazamiento en el espacio.\n
+        3.7 Producto de vectores.\n\n
+        4. LEYES DE NEWTON.\n
+        4.1 Primera Ley de Newton.\n
+        4.2 Equilibrio de una partícula.\n
+        4.3 Diagramas de cuerpo libre\n
+        4.4 Tercera Ley de Newton.\n
+        4.5 Equilibrio de un cuerpo rígido.\n
+        4.6 Producto vectorial.\n
+        4.7 Torque de una fuerza como producto vectorial.\n\n
+        5. CINEMATICA.\n
+        5.1 Movimiento rectilineo o unidimensional.\n
+        5.2 Representación grafica de la posición en función del tiempo.\n
+        5.3 La velocidad media obtenida a partir del grafico
+        espacio-tiempo.\n
+        5.4 La aceleración media obtenida a partir del grafico
+        velocidad-tiempo.\n
+        5.5 Ecuaciones del movimiento rectilineo.\n
+        5.6 Caída libre.\n
+        5.7 Movimiento bidimensional.\n
+        5.8 Movimiento circular uniforme.\n\n
+        6. DINAMICA DE PARTICULAS. \n
+        6.1 Representación de la segunda ley de Newton en un
+        sistema de coordenadas\n
+        6.2 Fuerzas de rozamiento.\n
+        6.3 Dinámica de una partícula en el movimiento circular
+        uniforme.\n\n
+        7. TRABAJO Y ENERGIA. \n
+        7.1 Trabajo realizado por una fuerza constante.\n
+        7.2 Representación grafica de la fuerza versus
+        el desplazamiento.\n
+        7.3 La fuerza de un resorte.\n
+        7.4 Trabajo y energía cinética.\n
+        7.5 Energía potencial.\n
+        7.6 Conservación de la energía mecánica.\n
+        7.7 Trabajo y energía en sistemas no conservativos.\n
+    </string>
+    <string name="len_resume">
+        Cuanto más se conozca a sí mismo el alumnado como estudiante y conozca las
+        distintas técnicas de estudio que tiene a su disposición, más fácil le será seleccionar
+        las más adecuadas a cada situación para crear sus propias estrategias de
+        aprendizaje.\n
+        Aprender a estudiar sacándole partido a las capacidades personales es muy
+        parecido a un entrenamiento físico: hace falta voluntad, un buen entrenador y
+        constancia. Si no conocemos la manera de hacerlo no llegaremos a tener buenos
+        resultados. Hay que querer, pero también saber.\n
+        Los pasos que debemos seguir son casi siempre los mismos a la hora de estudiar, lo
+        que varía es la elección de la técnica en cada uno de estos pasos. El objetivo final
+        será que el alumnado sepa autorregularse y ser autónomo en su aprendizaje.
+    </string>
+    <string name="len_cont">
+        Aqui podras revisar los contenidos que podras encontrar en los materiales de estudio
+        de esta seccion: \n
+        1. Motivación y automotivación\n
+        2. Lugar de estudio y tiempo de estudio. Planificación\n
+        3. Atención y concentración:\n
+        - Factores externos e internos\n
+        - Cuatro opciones básicas\n
+        - Agunas estrategias para mejorar la concentración\n
+        1. Breve pero dulce\n
+        2. Come las verduras antes del postre\n
+        3. El método del NSA/HAC\n
+        4. Activar los conocimientos previos\n
+        - Títulos y subtítulos\n
+        - Skimming y scanning\n
+        - Preguntas y respuestas\n
+        5. Estrategias de recogida y selección de la información\n
+        - Subrayado\n
+        - Parafrasear en los márgenes\n
+        6. Estrategias de síntesis y comprensión\n
+        7.Esquemas Mapas:\n
+        1. Mapa mental\n
+        2. Mapa conceptual\n
+        -Cuadro comparativo\n
+        -Conectar partes del texto\n
+        -Memoria\n
+        - Reglas básicas\n
+        - Repetición\n
+        - Reglas de asociación\n
+        - Acrósticos\n
+        - Musicar nombres\n
+        - Enlazar usando la narración\n
+        8. El repaso y el recuerdo\n
+        9. Transferencia de conocimientos\n
+        - Resumen\n
+        - Mapas en blanco\n
+        - Esquemas mudos\n
+    </string>
+    <string name="mat_resume">
+        Las matemáticas o la matemática (del latín mathematĭca, y este del griego μαθηματικά,
+        transliterado como mathēmatiká, derivado de μάθημα, tr. máthēma. \'conocimiento\')
+        son/es una ciencia formal que, partiendo de axiomas y siguiendo el razonamiento lógico,
+        estudia/n las propiedades, estructuras abstractas y relaciones entre entidades abstractas
+        como números, figuras geométricas, iconos, glifos o símbolos en general.\n
+
+        La matemática es un conjunto de lenguajes formales que pueden usarse como herramienta para plantear
+        problemas en contextos específicos. Por ejemplo, el siguiente enunciado puede expresarse de
+        dos formas: X es mayor que Y y Y es mayor que Z, o en forma simplificada puede decirse que
+        X > Y > Z. Este es el motivo por el cual las matemáticas son tan solo un lenguaje simplificado
+        con una herramienta para cada problema específico (por ejemplo, 2 × 2 = 4 o bien 2 + 2 = 4).
+    </string>
+    <string name="mat_cont">
+        Libro matematicas preuniversitarias:\n
+        1. NUMEROS REALES\n
+        1.1 Conjuntos Numéricos – Los números reales.	\n
+        1.2 Operaciones aritméticas básicas.\n
+        1.3 Suma, resta, producto y cociente.	\n
+        1.4 Potencia y radicación.	\n
+        1.5 Símbolos de comparación.	\n
+        1.6 Máximo común divisor y mínimo común múltiplo.\n
+        2. EXPRESIONES ALGEBRAICAS\n
+        2.1 Conceptos generales.\n
+        2.2 Monomios, binomios, trinomios, polinomios.\n
+        2.3 Suma algebraica.\n
+        2.4 Producto entre expresiones algebraicas.\n
+        2.5 Cociente entre expresiones algebraicas.\n
+        2.6 Regla de Ruffini.\n
+        2.7 Teorema del Resto.\n
+        2.8 Concepto de divisibilidad.\n
+
+        3. FACTORIZACION DE EXPRESIONES\n
+        3.1 Factorización de expresiones algebraicas.\n
+        3.2 Factor común.\n
+        3.2 Factor común por grupos.\n
+        3.3 Trinomio cuadrado perfecto.\n
+        3.4 Cuatrinomio cubo perfecto.\n
+        3.5 Ecuación de segundo grado.\n
+        4. DIVISIBILIDAD
+        4.1 Divisibilidad.\n
+        4.2 Suma y resta de binomios de potencia impar.\n
+        4.3 Suma y diferencia de binomios de potencia par.\n
+        4.4 Racionalización.\n
+        5.ECUACIONES
+        5.1 Ecuación de primer grado.\n
+        5.2 Función lineal.\n
+        5.3 Reconstrucción de una función lineal.\n
+        5.4 Paralelismo y perpendicularidad.\n
+        6. ECUACIONES LINEALES
+        6.1 Sistema de ecuaciones lineales.\n
+        6.2 Definición y solución.\n
+        6.3 Método gráfico.\n
+        6.4 Métodos analíticos: determinantes, igualación, sustitución y reducción.\n
+        6.5 Un problema de sistema de ecuaciones lineales.\n
+        7. ECUACIONES DE SEGUNDO GRADO
+        7.1 Definición y resolución de la ecuación de segundo grado.\n
+        7.2 Ejemplos de distintas formas de solución.\n
+        7.3 Propiedades de las raíces de la ecuación de segundo grado.\n
+        7.4 Expresión factorizada de la ecuación de segundo grado.\n
+        7.5 Función de segundo grado.\n
+        7.6 Casos particulares de la función de segundo grado.\n
+        7.7 Reconstrucción de la función de segundo grado a partir del gráfico.\n
+        8. ECUACIONES EXPONENCIALES
+        8.1 Ecuaciones exponenciales.\n
+        8.2 Ecuaciones logarítmicas.\n
+        8.3 Propiedades de los logaritmos.\n
+        8.4 Función exponencial.	\n
+        8.5 Función logaritmo.\n\n
+        Libro Bioestadistica:\n
+        1 Estadística descriptiva\n
+        2 Probabilidad.\n
+        3 Variables aleatorias y distribuciones de probabilidad.\n
+        4 Principios de muestreo y estimación.\n
+        5 Inferencia estadística.\n
+        6 Inferencia sobre medias.\n
+        7 Inferencia sobre proporciones.\n
+        8 Métodos no paramétricos.\n
+        9 Determinación del tamaño muestral.\n
+        10 Correlación y regresión lineal simple.\n
+        11 Regresión lineal múltiple.\n\n
+        Libro Sistema Internacional de medidas:\n
+        1. Sistema internacional de medidas SI.\n
+    </string>
+    <string name="aps_resume">
+        Los valores de la APS en pro de la salud para
+        todos requieren que los sistemas de salud «pon-
+        gan a las personas en el centro de la atención
+        sanitaria» . Lo que las personas consideran
+        modos de vida deseables a nivel individual y lo
+        que esperan para sus sociedades – esto es, lo que
+        las personas valoran – constituyen parámetros
+        importantes para dirigir el sector de la salud.\n
+        La APS ha seguido siendo el punto de referencia
+        del discurso sobre salud de casi todos los países,
+        precisamente porque el movimiento en pro de la
+        APS intentó aportar respuestas racionales, basa-
+        das en datos científicos y con visión de futuro,
+        a las necesidades sanitarias y a esas expecta-
+        tivas sociales.
+    </string>
+    <string name="aps_cont">
+        Contenidos del folleto "Informe sobre el estado de salud del mundo OMS 2008": \n
+        1. Desafíos de un mundo en transformación. \n
+        2. Impulsar y mantener la cobertura universal. \n
+        3. Atención primaria: dar prioridad a la persona.\n
+        4. Políticas públicas para la salud pública. \n
+        5. Liderazgo y gobierno eficaz.\n
+        6. El camino hacia el futuro.
+    </string>
+    <string name="quim_resume">
+        La química es la ciencia natural que estudia la composición, estructura
+        y propiedades de la materia ya sea en forma de elementos, compuestos, mezclas
+        u otras especies, así como los cambios que esta experimenta durante las
+        reacciones y su relación con la energía química. \n
+
+        Las disciplinas de la química se agrupan según la clase de materia bajo estudio
+        o el tipo de estudio realizado. Entre estas se encuentran la química inorgánica,
+        que estudia la materia inorgánica; la química orgánica, que estudia la materia
+        orgánica; la bioquímica, que estudia las sustancias existentes en organismos biológicos;
+        la fisicoquímica que comprende los aspectos estructurales y energéticos de sistemas químico
+        s a escalas macroscópica, molecular y atómica, y la química analítica, que analiza muestras
+        de materia y trata de entender su composición y estructura mediante diversos estudios
+        y reacciones.
+    </string>
+    <string name="quim_cont">
+        Libro quimica preuniversitaria:\n
+        QUÍMICA INORGANICA\n
+        CAPÍTULO I\n
+        PRINCIPIOS ELEMENTALES\n
+        1.1. NATURALEZA DE LA QUÍMICA\n
+        1.2. MATERIA\n
+        1.3. CAMBIOS DE LA MATERIA\n
+        1.4. PROPIEDADES QUIMICAS Y FÍSICAS\n
+        1.5 ENERGÍA\n
+        1.6 RADIACIÓN ELECTROMAGNÉTICA\n
+        1.7 MEDICIÓN EN QUÍMICA\n
+
+        CAPITULO II\n
+        ÁTOMOS Y MOLÉCULAS\n
+        2.1 DE DEMOCRITO A DALTON\n
+        2.2 DESCUBRIMIENTO DEL ELECTRÓN\n
+        2.3 EL MODELO DE THOMSON\n
+        2.4 LA RADIOACTIVIDAD\n
+        2.5 EL MODELO NUCLEAR\n
+        2.6 EL TAMAÑO DEL ATOMO\n
+        2.7 QUE MANTIENE UNIDO AL NÚCLEO\n
+        2.8 NÚMERO ATOMICO\n
+        2.9 MOLECULAS E IONES\n
+        2.10 PESOS ATOMICOS\n
+        2.11 EL MOL\n
+        2.12 ENERGIA Y TRANSFORMACIÓN NUCLEAR\n
+
+        CAPITULO III\n
+        EL ATOMO Y SU ESTRUCTURA ELECTRÓNICA\n
+        3.1.ESPECTROS ATOMICOS Y EL MODELO DE BOHR\n
+        3.2. VISION MODERNA DEL ATOMO\n
+        3.3. NÚMEROS CUÁNTICOS\n
+        3.4 PRINCIPIO DE EXCLUSIÓN DE PAULI\n
+        3.5 CONFIGURACION ELECTRÓNICA DE LOS ELEMENTOS\n
+
+        CAPITULO IV\n
+        PERIODICIDAD DE LAS PROPIEDADES DE LOS ELEMENTOS\n
+        4.1 PERIODICIDAD DE LA CONFIGURACIÓN ELECTRÓNICA DE LOS
+        ELEMENTOS\n
+        4.2. LA LEY PERIÓDICA\n
+        4.3. FAMILIAS QUÍMICAS\n
+        4.4. ENERGIA DE IONIZACION\n
+        4.5. AFINIDAD ELECTRÓNICA\n
+        4.6. RADIO ATOMICO\n
+        4.7. ELECTRONEGATIVIDAD\n
+
+        CAPITULO V\n
+        EL ENLACE QUÍMICO\n
+        5.1. EL ENLACE IONICO\n
+        5.2. ENLACE COVALENTE\n
+        5.3. RESONANCIA\n
+        5.4. ORBITALES ATOMICOS : HIBRIDACIÓN\n
+
+        CAPITULO VI\n
+        NOMENCLATURA INORGANICA\n
+        6.1. ELEMENTOS\n
+        6.2. IONES SENCILLOS\n
+        6.3 FUNCIONES QUIMICAS INORGÁNICAS\n
+        6.4. OXIDOS\n
+        6.5. HIDROXIDOS\n
+        6.6. OXOACIDOS\n
+        6.7. SALES\n
+
+        CAPITULO VII\n
+        MÉTODOS DE IGUALACIÓN EN LAS ECUACIONES QUÍMICAS\n
+        7.1. ECUACION QUÍMICA\n
+        7.2. BALANCEO DE ECUACIONES\n
+        7.3. TIPOS DE REACCIONES QUÍMICAS\n
+
+        CAPITULO VIII\n
+        ESTEQUIOMETRIA\n
+        8.1. EL MOL\n
+        8.2 TIPOS DE FORMULA\n
+        8.3 COMPOSICION PORCENTUAL A PARTIR DE LA FORMULA\n
+        8.4. FORMULA EMPIRICA A PARTIR DE LA COMPOSICION
+        PORCENTUAL\n
+        8.5. RELACIONES EN PESO EN LAS ECUACIONES QUÍMICAS\n
+
+        CAPITULO IX\n
+        DISOLUCIONES ACUOSAS\n
+        9.1. TIPOS DE SOLUCION\n
+        9.2 SOLUBILIDAD\n
+        9.3 CONCENTRACION DE LAS SOLUCIONES\n
+
+        QUÍMICA ORGANICA\n
+        CAPITULO I\n
+        INTRODUCCIÓN\n
+        1.1 ENLACES EN LOS COMPUESTOS ORGANICOS\n
+        1.2 GRUPOS FUNCIONALES\n
+        1.3 REACTIVIDAD QUÍMICA\n
+        1.4 MECANISMOS DE REACCION\n
+        CAPITULO II\n
+        ALCANOS\n
+        2.1 NOMENCLATURA DE LOS ALCANOS\n
+        2.1.1 NOMBRES COMUNES\n
+        2.2. PROPIEDADES FISICAS DE LOS ALCANOS. CONCEPTO
+        DE HOMOLOGIA\n
+        2.3. REACTIVIDAD QUIMICA DE LOS ALCANOS.\n
+        2.4. CONFORMACIONES\n
+        CAPITULO III\n
+        CICLOALCANOS\n
+        3-1 PROPIEDADES FISICAS DE LOS CICLOALCANOS\n
+        3.2 NOMENCLATURA DE LOS CICLOALCANOS\n
+        3-3 ISOMERÍA GEOMETRICA EN LOS CICLOALCANOS\n
+        3.4-ESTABILIDADES DE CICLOALCANOS; TENSION DEL ANILLO.-\n
+        3.5 CALORES DE COMBUSTIÓN\n
+        CAPITULO IV\n
+        ALQUENOS\n
+        4.1 NOMENCLATURA DE LOS ALQUENOS Y CICLOALQUENOS\n
+        4.2 ESTRUCTURA Y PROPIEDADES DE LOS ALQUENOS\n
+        4.3 ESTEREOISOMERIA DE ALQUENOS\n
+        4.4 REACCIONES QUÍMICAS DE LOS ALQUENOS\n
+
+        CAPITULO V\n
+        ALQUINOS\n
+        5.1. NOMENCLATURA\n
+        5.2 PROPIEDADES FISICAS DE LOS ALQUINOS\n
+        5.3 ETINO\n
+        5.4. REACCIONES DE ADICION DE LOS ALQUINOS\n
+        5.5. LOS ALQUINOS COMO ACIDOS\n
+        5.6 INPORTANCIA COMERCIAL DE LOS ALQUINOS\n
+
+        CAPITULO VI\n
+        HIDROCARBUROS AROMATICOS\n
+        6.1 NOMENCLATURA DE LOS ARENOS\n
+        6.2 PROPIEDADES FISICAS DE LOS ARENOS\n
+        6.3 REACCIONES DE LOS HIDROCARBUROS AROMÁTICOS\n
+
+        CAPITULO VII\n
+        ALCOHOLES Y ETERES\n
+        7.1 NOMENCLATURA\n
+        7.2 AICOHOLES Y ETERES\n
+        7.3. PREPARACIÓN DE ALCOHOLES\n
+        7.4 REACCIONES DE LOS ALCOHOLES Y ETERES\n
+        7.5 USOS\n
+
+        CAPITULO VIII\n
+        ALDEHÍDOS Y CETONAS\n
+        8.1 NOMENCLATURA DE LOS ALDEHIDOS Y CETONAS\n
+        8.2 PROPIEDADES FÍSICAS DE ALDEHIDOS Y CETONAS\n
+        8.3 SÍNTESIS DE ALDEHIDOS Y CETONAS\n
+        8.4 REACCIONES DE ALDEHÍDOS Y CETONAS\n
+        8.5 USOS PRINCIPALES DE ALDEHÍDOS Y CETONAS\n
+
+        CAPITULO IX\n
+        ACIDOS CARBOXILICOS\n
+        9.1 NOMENCLATURA\n
+        9.2. PROPIEDADES FISICAS DE LOS ACIDOS CARBOXILICOS\n
+        9.3 REACCIONES DE LOS ACIDOS CARBOXÍLICOS\n
+        9.4 USOS\n
+    </string>
+
+    <string name="infoval">
+        Esta aplicacion tiene un costo de $1.5 Dolares Americanos.\n
+        Para poder validar esta aplicacion debes comprar la version extendida, lo que te
+        permitira acceder a los recursos de las secciones bloqueadas.\n\n
+
+        Los metodos disponibles para activar la aplicacion son:\n
+        Pago via paypal: g2miguelangel@hotmail.com\n
+        Pago via Bitcoin: 3DwKnmCLNtQFCN3Fb9aQerdEw9gftiHEs3\n
+        Si eres de Venezuela puedes realizar pago via pagomovil (tasa DT) al\n
+        Banco Venezuela (0102) 04145627984 16660344\n\n
+
+        Una vez realizado tu pago, envia una captura de pantalla del mismo, donde se muestre monto,
+        fecha y codigo de transaccion al correo electronico: medicoursecontact@gmail.com, conjuntamente con el serial de
+        identificacion de tu app, ubicado debajo de este texto.\n
+        En el transcurso de 2 a 24 horas recibiras el codigo de validacion, al cual
+        deberas ingresar donde dice: \"INGRESA CODIGO DE VALIDACION\".\n\n
+
+        El valor de la aplicacion no aplica a los recursos recolectados, como libros y demas,
+        los mismos son de libre acceso y distribuidos en la red, asi que al comprar la version extendida
+        de esta app, aceptas pagar solo por el software que los contiene y organiza y no por los recursos
+        de otros autores.\n
+    </string>
+</resources>

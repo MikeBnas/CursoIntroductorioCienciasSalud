@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MediCourses">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/medic"
+                android:src="@drawable/med"/>
+
+            <TextView
+                android:id="@+id/sectionmed"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:background="#C4C5C6"
+                android:layout_margin="5dp"
+                android:text="MediCourses Introductorio \n Visita nuestro sitio web para encontrar mas recursos \n utiles para tu estudio"
+                android:textAlignment="center" />
+
+            <Button
+                android:id="@+id/buttonmed"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textAlignment="center"
+                android:text="Ir a MediCourses" />
+
+            <Button
+                android:id="@+id/buttonshared"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textAlignment="center"
+                android:text="Comparte esta app" />
+
+
+
+            <ImageView
+                android:id="@+id/picgamee"
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/gameepic"
+                android:onClick="gamee"/>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Matematicas">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/sectionmat"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:background="#3F99E3"
+                android:text="Matematicas \n Resumen de la seccion"
+                android:textAlignment="center"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/sectionmatcont"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mat_resume"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/contentmat"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:background="#3F99E3"
+                android:paddingTop="2dp"
+                android:layout_marginTop="2dp"
+                android:text="Matematicas \n Contenidos de la seccion"
+                android:textAlignment="center"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:id="@+id/contentmatcont"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mat_cont"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/buttonmat"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textAlignment="center"
+                android:text="Leer libro Matematicas preuniversitaria" />
+
+            <Button
+                android:id="@+id/buttonbes"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textAlignment="center"
+                android:text="Leer libro Bioestadistica en salud" />
+
+            <Button
+                android:id="@+id/buttonsi"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textAlignment="center"
+                android:text="Leer libro Sistema de Medidas Internacional" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

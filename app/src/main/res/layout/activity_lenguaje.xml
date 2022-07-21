@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Lenguaje">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/sectionlen"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:background="#3F99E3"
+                android:text="Lenguaje y Tecnicas de estudio\n Resumen de la seccion"
+                android:textAlignment="center"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/sectionlencont"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/len_resume"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/contentlen"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:background="#3F99E3"
+                android:paddingTop="2dp"
+                android:layout_marginTop="2dp"
+                android:text="Lenguaje y tecnicas de estudio \n Contenidos de la seccion"
+                android:textAlignment="center"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:id="@+id/contentlencont"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/len_cont"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/buttonlen"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textAlignment="center"
+                android:text="Ver recursos" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
