@@ -1,5 +1,4 @@
-{
-  "products":[
+[
   {
     "productname": "Molecule Man",
     "price": 29
@@ -21,4 +20,4 @@
     "productname": "loro",
     "price": 44
   }
-]}
+}
