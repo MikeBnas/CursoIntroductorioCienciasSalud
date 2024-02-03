@@ -1,23 +1,24 @@
-[
+{
+  "products":[
   {
     "productname": "Molecule Man",
-    "age": 29
+    "price": 29
     
   },
   {
     "productname": "Madame Uppercut",
-    "age": 39
+    "price": 39
   },
   {
     "productname": "tabelt",
-    "age": 18
+    "price": 18
   },
   {
     "productname": "casa",
-    "age": 145
+    "price": 145
   },
   {
     "productname": "loro",
-    "age": 44
+    "price": 44
   }
-]
+]}
